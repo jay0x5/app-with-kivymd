@@ -2,10 +2,10 @@
 
 Description and Purpose of each file:
 1. colours.txt: all the colour options provided by KivyMD for different elements (Note: the background can be either dark or light)
-2. enigma.py: the base developement file written with python and kv lang
+2. enigma.py: the base developement file written with python and kv lang [includes: login and blank menu]
 3. icons.py: the script provided by Kivy to check all the icons and symbols provided by the library for use
 4. logo: CONQUER MARS 
-5. main.py: the base developement file written with python and no kv lang (except for the screen manager part)
+5. main.py: the base developement file written with python and no kv lang (except for the screen manager part) [includes: login] 
 
 IMPORTANT: If the Judges dont allow us usage of KV lang (which would be a kinda dumb decision) we will be left with 3 options:-
 1. We will have to somehow either write entire app in pure python 
